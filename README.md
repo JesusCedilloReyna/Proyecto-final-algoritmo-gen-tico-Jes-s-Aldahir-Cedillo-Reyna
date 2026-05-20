@@ -5,9 +5,13 @@ Este proyecto implementa un algoritmo genético para alineamiento de secuencias 
 
 ## Mejoras implementadas
  -Cruza multipunto (3 cortes).
+ 
  -Selección por torneo.
+ 
  -Mutación híbrida (insertar, mover y eliminar gaps).
+ 
  -Elitismo (conservación del mejor individuo).
+ 
  -Reintroducción de nuevos individuos cada 20 generaciones.
 
 ## Resultados finales :D
