@@ -4,11 +4,11 @@ Proyecto final algoritmo genético Jesús Aldahir Cedillo Reyna
 Este proyecto implementa un algoritmo genético para alineamiento de secuencias usando la matriz BLOSUM62.
 
 ## Mejoras implementadas
- Cruza multipunto (3 cortes).
- Selección por torneo.
- Mutación híbrida (insertar, mover y eliminar gaps).
- Elitismo (conservación del mejor individuo).
- Reintroducción de nuevos individuos cada 20 generaciones.
+ -Cruza multipunto (3 cortes).
+ -Selección por torneo.
+ -Mutación híbrida (insertar, mover y eliminar gaps).
+ -Elitismo (conservación del mejor individuo).
+ -Reintroducción de nuevos individuos cada 20 generaciones.
 
 ## Resultados finales :D
 Se comparó el algoritmo original vs el mejorado.  
